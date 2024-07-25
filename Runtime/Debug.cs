@@ -1,7 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
-public class Debug : MonoBehaviour {
-
+namespace Mutanto {
+    public class Debug : MonoBehaviour {
+        private void Start() {
+            UnityEngine.Debug.Log("Success");
+        }
+    }
 }
+
