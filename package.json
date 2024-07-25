@@ -1,0 +1,12 @@
+{
+  "name": "com.Mutanto.Base",
+  "version": "0.1.0",
+  "displayName": "Mutanro Base Package",
+  "description": "Bases scripts",
+  "unity": "2022.3",
+  "author": {
+    "name": "Sergey Kihno",
+    "email": "serge.al3ksandrov@gmail.com",
+    "url": ""
+  }
+}
